@@ -1,0 +1,34 @@
+{
+  "name": "@rtcoder/simple-summary",
+  "version": "1.0.0",
+  "description": "Text summarizer using Node.js",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtcoder/simple-summary.git"
+  },
+  "keywords": [
+    "summary",
+    "summarize",
+    "text",
+    "nlp"
+  ],
+  "author": "Dawid Jeż",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/rtcoder/simple-summary/issues"
+  },
+  "homepage": "https://github.com/rtcoder/simple-summary#readme",
+  "dependencies": {
+    "lodash": "^4.16.4",
+    "mathjs": "^3.6.0",
+    "natural": "^0.5.1",
+    "nlp_compromise": "^6.5.3"
+  }
+}
